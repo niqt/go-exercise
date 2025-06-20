@@ -1,0 +1,1 @@
+Write a function that takes a list of strings as input and returns the list of the 5 most frequent strings, sorted in descending order by occurrence and then by string.
